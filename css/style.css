@@ -1,0 +1,11 @@
+.BildKlasse{
+  max-width: 75%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Textweiss{
+	color: white;
+}
