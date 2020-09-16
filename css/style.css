@@ -19,3 +19,15 @@
 	color: white;
 	font-size: 2em;
 }
+
+@font-face {
+    font-family: 'oldenglish';
+    src: url('../fonts/oldenglish-webfont.woff2') format('woff2'),
+         url('../fonts/oldenglish-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{
+	font-family: oldenglish
+}
