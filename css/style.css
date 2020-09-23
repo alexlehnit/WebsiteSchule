@@ -6,10 +6,6 @@
   margin-right: auto;
 }
 
-.Textweiss{
-	color: white;
-}
-
 .UeberschriftLI{
 	color :white;
 	font-size : 1.75rem
@@ -37,7 +33,22 @@
 
 h1{
 	font-family: oldenglish;
-	
+}
 
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('../img/hero3.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 
+.ueberunsheader {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('../img/team.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
