@@ -2870,7 +2870,7 @@ fieldset:disabled a.btn {
 
 .btn-info {
   color: #fff;
-  background-color: #1f9bcf;
+  background-color: #ca0c0c;
   border-color: #1f9bcf;
 }
 
@@ -2897,7 +2897,7 @@ fieldset:disabled a.btn {
 .btn-info:not(:disabled):not(.disabled):active, .btn-info:not(:disabled):not(.disabled).active,
 .show > .btn-info.dropdown-toggle {
   color: #fff;
-  background-color: #187aa3;
+  background-color: #ca0c0c;
   border-color: #177198;
 }
 
