@@ -23,6 +23,16 @@
 	font-size: 2em;
 }
 
+.UeberschriftKon{
+	color: white;
+	font-size: 3rem;
+}
+
+.TextKon{
+	color: white;
+	font-size: 1.5rem;
+}
+
 @font-face {
     font-family: 'oldenglish';
     src: url('../fonts/oldenglish-webfont.woff2') format('woff2'),
