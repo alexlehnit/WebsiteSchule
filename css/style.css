@@ -6,16 +6,20 @@
   margin-right: auto;
 }
 
+.BildKlasseSpeißeKarte{
+  max-width: 75%;
+  height: auto;
+  display: block;
+}
+
 .UeberschriftLI{
 	color :white;
-	font-size : 1.75rem
-	
+	font-size : 1.75rem	
 }
 
 .TextLI{
 	color :white;
 	font-size : 1.25rem
-	
 }
 
 .UeberschriftSK{
